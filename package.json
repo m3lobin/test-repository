@@ -39,7 +39,14 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^8.50.0"
+    "@semantic-release/commit-analyzer": "^11.1.0",
+    "@semantic-release/github": "^9.2.5",
+    "@semantic-release/release-notes-generator": "^12.1.0",
+    "eslint": "^8.50.0",
+    "semantic-release": "^22.0.10"
   },
-  "homepage": "https://m3lobin.github.io/test-repository/"
+  "homepage": "https://m3lobin.github.io/test-repository/",
+  "repository": {
+    "url": "https://github.com/m3lobin/test-repository"
+    }
 }
