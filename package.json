@@ -40,5 +40,6 @@
   },
   "devDependencies": {
     "eslint": "^8.50.0"
-  }
+  },
+  "homepage": "https://m3lobin.github.io/test-repository/"
 }
